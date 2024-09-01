@@ -1,0 +1,59 @@
+{
+  "Approvals":"الموافقات",
+  "ApprovalsTypes":"أنواع الموافقات",
+  "User": "مستخدم",
+  "Required":"مطلوب",
+  "SequenceNum":"رقم التسلسل",
+  "MinimumApproval":"الحد الأدنى للموافقة",
+  "ApproversSequence":"تسلسل مانحي الموافقات؟",
+  "EmployeeManager":"المدير المباشر",
+  "Approvers":"المُعتمِدين",
+  "Fields":"الحقول",
+  "AutomatedSequence":"بداية التسلسل",
+  "Document":"المستند",
+  "Contact":"جهة الاتصال",
+  "Date":"التاريخ",
+  "Period":"الفترة",
+  "Product":"المنتج",
+  "Quantity":"الكمية",
+  "Amount":"مبلغ",
+  "Reference":"الرقم المرجعي",
+  "Payment":"الدفع",
+  "Location":"الموقع",
+  "Optional":"اختياري",
+  "None":"لا شيء",
+  "MinimumApprovalMsg1":"الحد الأدنى للموافقة يتخطى الإجمالي الافتراضي للمُعتمِدين",
+  "MinimumApprovalMsg2":"يجب أن يكون الحد الأدنى للموافقة مساوياً أو أعلى من مجموع الموافقات المطلوبة",
+  "ApprovalSubject":"موضوع الموافقة",
+  "RequestOwner":"صاحب الطلب",
+  "RequestType":"فئة الطلب",
+  "PeriodFrom":"الفترة من",
+  "PeriodTo":"الفترة الى",
+  "AttachDocument":"إرفاق مستند",
+  "FileSizeMsg": "حجم الملف لا يجب ان يزيد عن 2 ميجا",
+  "FiletypeMsg": "أنواع الملفات المدعومة والمتاح تحميلها هي   PNG - JPG - JPEG - JPE - BMP - PDF - DOC - DOCX - XLS - XLSX",
+  "DocumentsRequiredMsg":"يجب عليك إرفاق مستند واحد على الأقل",
+  "EmployeeManagerMsg":"يحتاج هذا الطلب إلى موافقة مديرك",
+  "PeriodToDateMsg":"تاريخ الفترة الى يجب أن يكون مساوياً أو أكبر من تاريخ الفترة من",
+  "MyRequests":"طلباتي",
+  "RequestStatus":"حالة الطلب",
+  "ApprovalstoReview":"الموافقات بانتظار المراجعة",
+  "AllApprovals":"كافة الموافقات",
+  "Refuse":"رفض",
+  "Approve":"موافقة",
+  "Approval":"الموافقة",
+  "CancelRequest":"الغاء الطلب",
+  "RequestStatusesLog":"سجل حالات الطلب",
+  "Notes": "ملاحظات",
+  "CreatedDateTime":"تاريخ التسجيل"
+
+
+
+
+
+
+
+
+
+  
+}

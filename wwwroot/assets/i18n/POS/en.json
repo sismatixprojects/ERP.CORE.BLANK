@@ -1,0 +1,23 @@
+{
+  "FileSizeMsg": "File Size must be less than or equal to 2 MB",
+  "FiletypeMsg": "File Types which are allowed :PNG - JPG - JPEG - GIF",
+  "FileSelectMsg": "Select File to Upload First",
+  "DiningAccounting":"Employees",
+  "PrinterName":"Printer Name",
+  "Printer":"Printer",
+  "MainPrinter":"Main Printer",
+  "ItemCategories":"Item Categories",
+  "AddPrinter":"Add Printer",
+  "PrinterGoogleIdValidationMessage":"Printer Google Id is already exist for another branch",
+  "HeaderTaxWithClientTaxNumberEn":"Header With Client Tax Number  English",
+  "HeaderTaxWithClientTaxNumberAr":"Header With Client Tax Number Arabic",
+  "HeaderTaxWithoutClientTaxNumberEn":"Header Without Client Tax Number English",
+  "HeaderTaxWithoutClientTaxNumberAr":"Header Without Client Tax Number Arabic",
+  "AllItems":"All Items",
+  "discounttype":"Discount type",
+  "conditionminimumvalue":"Minimum Order Value",
+  "invalidDateMsg": "End date must be greater than or equal to start date",
+  "SelectItemCategory": "Select Item Category",
+  "RepaeteNameMsg":"This Name has been used before and can't be repeated",
+  "KD":"KD"
+}

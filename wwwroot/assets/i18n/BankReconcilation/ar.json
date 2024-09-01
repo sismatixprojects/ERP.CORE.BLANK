@@ -1,0 +1,23 @@
+{
+  "BankReconcilation" :"تسوية بنكية",
+  "Bookbalanceforthepreviousperiod":"الرصيد الدفترى للفترة السابقة",
+  "Totaldebitduringtheperiod": "مجموع الحركات المدينة خلال الفترة",
+  "Totalcreditduringtheperiod": "مجموع الحركات الدائنة خلال الفترة",
+  "Bookbalancefortheendofperiod":"الرصيد الدفترى نهايةالفترة",
+  "Actualbalanceattheendoftheperiod": "الرصيد الفعلي في نهاية الفترة",
+  "differencebetweentheactualandbookbalance": "الفرق بين الرصيد الفعلي و الدفتري",
+  "Totalmovementsduringtheperiod":"مجموع الحركات خلال الفترة",
+  "Totaltransactionssettled":"مجموع الحركات التي تمت تسويتها",
+  "Totalunreconciledtransactions":"مجموع الحركات التي لم تتم تسويتها",
+  "posted":"مرحلة",
+  "notposted":"غير مرحلة",
+  "Debit":"مدين",
+  "Credit":"دائن",
+  "Unreconciled":"لم يتم تسويتها",
+  "Reconciled":"تم تسويتها",
+  "BeneficiaryBank":"المستفيد / مستلم من",
+  "CheckNumber":"رقم الشيك",
+  "Transaction":"الحركة",
+  "TransactionType":"نوع الحركة",
+  "errmsg":"يجب اختيار بيان للحفظ"
+}

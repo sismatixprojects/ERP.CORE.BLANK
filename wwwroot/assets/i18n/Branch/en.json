@@ -1,0 +1,12 @@
+{
+  "Branch Documnet Title":"Branchs",
+  "Branch": "Branch",
+  "store": "store",
+  "IsDefualt": "Main",
+  "CostCenterId": "Cost Center",
+  "successMsg":"Data Deleted successfully",
+  "errorMsg":"some thing wrong",
+  "AddBranch": "Add / Edit Branch",
+  "DeleteRelationmsg":"This Branch have relation with other data",
+  "ApplyTax":"Apply Tax"
+}

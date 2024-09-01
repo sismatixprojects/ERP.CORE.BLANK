@@ -1,0 +1,58 @@
+{
+    "Approvals":"Approvals",
+    "ApprovalsTypes":"Approvals Types",
+    "User":"User",
+    "Required":"Required",
+    "SequenceNum":"Sequence Num",
+    "MinimumApproval":"Minimum Approval",
+    "ApproversSequence":"Approvers Sequence",
+    "EmployeeManager":"Employee Manager",
+    "Approvers":"Approvers",
+    "Fields":"Fields",
+    "AutomatedSequence":"Automated Sequence",
+    "Document":"Document",
+    "Contact":"Contact",
+    "Date":"Date",
+    "Period":"Period",
+    "Product":"Product",
+    "Quantity":"Quantity",
+    "Amount":"Amount",
+    "Reference":"Reference",
+    "Payment":"Payment",
+    "Location":"Location",
+    "None":"None",
+    "MinimumApprovalMsg1":"Your minimum approval exceeds the total of default approvers.",
+    "MinimumApprovalMsg2":"Minimum Approval must be equal or superior to the sum of required Approvers.",
+    "ApprovalSubject":"Approval Subject",
+    "RequestOwner":"Request Owner",
+    "RequestType":"Request Type",
+    "PeriodFrom":"Period From",
+    "PeriodTo":"Period To",
+    "AttachDocument":"Attach Document",
+    "FiletypeMsg": "File Types which are allowed :PNG - JPG - JPEG - JPE - BMP - PDF - DOC - DOCX - XLS - XLSX",
+    "FileSizeMsg": "File Size must be less than or equal to 2 MB",
+    "DocumentsRequiredMsg":"You have to attach at lease one document",
+    "EmployeeManagerMsg":"This request needs to be approved by your manager",
+    "PeriodToDateMsg":"Period date To must be equal or greater than Period  date from",
+    "MyRequests":"My Requests",
+    "RequestStatus":"Request Status",
+    "ApprovalstoReview":"Approvals to Review",
+    "AllApprovals":"All Approvals",
+    "Refuse":"Refuse",
+    "Approve":"Approve",
+    "Approval":"Approval",
+    "CancelRequest":"CancelRequest",
+    "RequestStatusesLog":"Request Statuses Log",
+    "Notes": "Notes",
+    "CreatedDateTime":"Created Date"
+
+
+
+
+
+
+
+
+
+    
+}

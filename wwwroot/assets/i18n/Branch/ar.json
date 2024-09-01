@@ -1,0 +1,13 @@
+{
+  "Branch Documnet Title":"الفروع",
+  "Branch": "الفروع",
+  "store": "المخزن",  
+  "IsDefualt": "الرئيسي",  
+  "CostCenterId": "مركز التكلفة التلقائي",
+  "successMsg":"تم الحذف بنجاح",
+  "errorMsg":"يوجد شىء خاطىء",
+  "AddBranch": "أضافة/تعديل الفروع",
+  "DeleteRelationmsg":"هذا الفرع مرتبط ببيانات اخرى",
+  "ApplyTax":"تطبيق الضريبة"
+  
+}

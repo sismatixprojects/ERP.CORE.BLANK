@@ -1,0 +1,18 @@
+{
+    "RealEstateTypes":"Real States Types",
+    "rooms":"Rooms" ,
+    "bathroom":"Bathroom" ,
+    "finishing":"Finishing",
+    "view":"View" ,
+    "floor":"Floor" ,
+    "floors":"Floors" ,
+    "land_size":"Land Size" ,
+    "size_in_metres":"Size in meteres" ,
+    "units_number":"Units Number",
+    "price":"Price",
+    "payment":"Payment",
+    "year":"Year",
+    "IsSold": "Sold",
+    "SelectRealEstate":"Select Real Estates"
+
+}

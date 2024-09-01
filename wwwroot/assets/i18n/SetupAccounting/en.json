@@ -1,0 +1,42 @@
+{
+"ChequesBooks":"Cheques Books",
+"From":"From",
+"Next":"Next",
+"Last":"Last",
+"BookID":"Book ID",
+"minnumber":"Frist",
+"LastError":"Invalid last values must be equal or larger than",
+"FirstLastError":"Invalid First and Last values",
+"FirstLastErrorpopup":"The collection book series isnot allowed to be repeated",
+"pressHere":"Press here to view this transaction",
+
+"LastCollectionError":"Invalid last values must be equal or larger than",
+"FirstLastCollectionError":"Invalid First and Last values",
+
+"CollectionBooks":"Collection Books",
+"Collectors":"Collectors ",
+"minnumberCollection":"First",
+"LastCollection":"Last",
+"AccountCategories":"Account Categories",
+"AccountCategory":"Account Category",
+
+"FinancialPeriods":"Financial Periods",
+"Subsidiary":"Subsidiary",
+"New Year":"New Year",
+"Add New Year":"Add New Year",
+"Existed Years":"Existed Years",
+"Month":"Month",
+"GL":"GL",
+"FollowYearSequence":"This Financial Year Can't be added . Financial Years must be sequenced",
+"YearExists":"Dublicate Financial Year is not allowed",
+"saved":"Added Successfully",
+"Budget Types":"Budget Types",
+"Choose":"Choose",
+"RatioKPI":"Ratios & KPI's",
+"Group":"Group",
+"Type":"Type",
+"AccountNumber":"Account Number",
+"ManageRatioGroups":"Manage Ratio Groups",
+"RatioKPIGroups":"Ratios & KPI's Groups"
+
+}

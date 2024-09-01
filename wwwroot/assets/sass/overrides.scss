@@ -1,0 +1,161 @@
+// Global Overrides Template Level Only
+
+//------- ng-accordion -------
+.accordion {
+  .card {
+    margin: 0;
+    background-color: transparent !important;
+
+    &:not(:last-of-type) {
+      .card-header {
+        border-bottom: 1px solid $border-color;
+      }
+    }
+
+    &:last-of-type {
+      .card-header button {
+        padding-bottom: 0;
+      }
+
+      .card-body {
+        padding-bottom: 0;
+      }
+    }
+
+    .card-header {
+      padding: 0;
+
+      button {
+        padding: 1.5rem;
+        width: 100%;
+        text-align: start;
+
+        &:hover {
+          box-shadow: none;
+        }
+      }
+    }
+  }
+}
+
+// for dark and transparent layouts
+html body.layout-dark {
+  .accordion .card {
+    box-shadow: none;
+  }
+
+  &:not(.layout-transparent) {
+    .accordion .card .card-header {
+      border-color: $dl-border-color;
+    }
+  }
+
+  &.layout-transparent {
+    .accordion .card .card-header {
+      border-color: $tl-border-color;
+
+      button:not([disabled]) {
+        color: map-get($primary-color, lighten-4);
+      }
+    }
+  }
+}
+
+//------- horizontal timeline -------
+.cd-horizontal-timeline .events-content li {
+  transform: translateX(0);
+}
+
+//------- time picker -------
+.ngb-tp-input-container button:hover {
+  box-shadow: none;
+}
+
+//------- Chartist Tooltip -------
+.chartist-tooltip:not(.tooltip-show) {
+  padding: 0;
+
+  &:before {
+    border: 0;
+  }
+}
+
+.navbar.header-navbar {
+  .navbar-nav {
+    li {
+      .form-group {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+.p-tree {
+  border: none;
+  border-top: 1px solid #dee2e6;
+  padding: 0;
+}
+.p-tree {
+   .p-tree-container{
+  p-treenode[ng-reflect-level='0']{
+    .p-treenode-icon{
+      font: normal normal normal 14px/1 FontAwesome;
+      &.pi-file{
+        font-family: 'primeicons';
+      }
+        &.pi-folder,&.pi-folder-open{
+          &::before{
+            content: "\f0b1";
+          }
+        }
+       
+    }
+  }
+.p-treenode-children{
+    p-treenode{
+      span.p-treenode-icon{
+        font: normal normal normal 14px/1 FontAwesome;
+        &.pi-folder,&.pi-folder-open{
+                  color:map-get($warning-color,lighten-1);
+
+        }
+        &.pi-file{
+          font-family: 'primeicons';
+          color:map-get($black-color,base);
+        }
+          &.pi-folder{
+            &::before{
+              content: "\f07b";
+            }
+          }
+
+          &.pi-folder-open{
+            &::before{
+              content: "\f07c";
+            }
+          }
+      }
+    }
+  }
+}
+}
+
+.treecontainer {
+  ol {
+    padding: 0;
+   
+  }
+}
+.table-for-autocomplete {
+  overflow-x: inherit !important;
+}
+
+quill-editor {direction: ltr;}
+.ql-snow .ql-picker:not(.ql-color-picker):not(.ql-icon-picker) svg {
+  left: 0;
+  right: auto;
+}
+@media only screen and (max-width: 600px) {
+  .mt-sm-1 {
+    margin-top: 0.375rem !important;
+  }
+}

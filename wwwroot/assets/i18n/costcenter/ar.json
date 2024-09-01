@@ -1,0 +1,24 @@
+{
+  "Cost Centers Documnet Title":"دليل مراكز التكلفة",
+  "Add Sub": "ضافة مركز فرعى",
+
+  "Cost Center level": "المستوى",
+  "Cost Center Info": "معلومات مركز التكلفة",
+  "Chart of Cost Center": "دليل مراكز التكلفة",
+  "Cost Center Code": "الكود",
+  "Cost Center Type":"نوع مركز التكلفة",
+  "Cost Center Start Date": "تاريخ بداية الحركة",
+  "Cost Center End Date": "تاريخ نهاية الحركة",
+  "Parent Cost Center":"مركز تكلفة رئيسي",
+  "Transaction Cost Center":"مركز تكلفة فرعي",
+  "CantAdd":"لا يمكن إضافة مستوى فرعي تحت مستوى فرعي",
+  "CantDelete":"لا يمكن حذف مركز تكلفة رئيسي",
+  "DateInvalid":"تاريخ البدايه أكبر من تاريخ النهايه",
+  "DeleteRelationmsg":"هذا المركز مرتبط ببيانات اخرى",
+  "toggleparenttransactionerror":"لا يمكنك تحويل مركز تكلفة رئيسي الى مركز تكلفة فرعى! لأنه يحتوى على مراكز تكلفة اخرى",
+  "expandAll":"انسدال الكل",
+  "collapseAll":"دمج الكل"
+  
+
+
+}

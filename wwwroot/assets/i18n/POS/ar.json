@@ -1,0 +1,28 @@
+{
+  "FileSizeMsg": "حجم الملف لا يجب ان يزيد عن 2 ميجا",
+  "FiletypeMsg": "أنواع الملفات المدعومة والمتاح تحميلها هي   PNG - JPG - JPEG - GIF",
+  "FileSelectMsg": "يجب تحديد الملف الذى تريد تحميله أولا",
+  "DiningAccounting":"الموظفين",
+  "PrinterName":"اسم الطابعة",
+  "Printer":"الطابعة",
+  "MainPrinter":"الطابعة الرئيسية",
+  "ItemCategories":"فئات الأصناف",
+  "AddPrinter":"اضافة طابعة",
+  "PrinterGoogleIdValidationMessage":"Printer Google Id موجود لفرع آخر",
+  "HeaderTaxWithClientTaxNumberEn":"وجود رقم تسجيل ضريبي للعميل الإنجليزية",
+  "HeaderTaxWithClientTaxNumberAr":"وجود رقم تسجيل ضريبي للعميل العربية",
+  "HeaderTaxWithoutClientTaxNumberEn":"عدم وجود رقم تسجيل ضريبي للعميل الإنجليزية",
+  "HeaderTaxWithoutClientTaxNumberAr":"عدم وجود رقم تسجيل ضريبي للعميل العربية",
+  "AllItems":"كل الأصناف",
+  "discounttype":"نوع الخصم",
+  "conditionminimumvalue":"الحد الأدنى للطلب",
+  "invalidDateMsg": "تاريخ النهاية يجب ان يكون أكبر من أو يساوي تاريخ البداية",
+  "SelectItemCategory": "أختر من فئات الاصناف",
+  "RepaeteNameMsg":"الاسم مستخدم من قبل لا يمكن تكراره",
+  "KD":"دك"
+  
+}
+
+
+
+

@@ -1,0 +1,447 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300&display=swap');
+
+body {
+  direction: rtl;
+}
+.card .text-start{
+  text-align: left !important;
+
+}
+.pull-right{
+  float: left;
+}
+
+.pull-left {
+  float: right;
+}
+
+.menu-expanded .app-sidebar,
+.menu-open .app-sidebar,
+.app-sidebar {
+  left: initial;
+  right: 0;
+  direction: ltr;
+  margin: 0 !important;
+}
+table.bill-design thead:first-child th:last-child{
+  border-top-right-radius: 0px !important;
+  border-top-left-radius: 10px !important;
+}
+table.bill-design thead:first-child th:first-child{
+  border-top-right-radius: 10px !important;
+  border-top-left-radius: 0px !important;
+}
+table.bill-design tbody:last-child tr:last-child td:last-child{
+  border-bottom-right-radius: 0px !important;
+  border-bottom-left-radius: 10px !important;
+}
+table.bill-design tbody:last-child tr:last-child td:first-child{
+  border-bottom-right-radius: 10px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+table.bill-design thead th,table.bill-design tbody td{
+  text-align: left !important;
+}
+table.bill-design thead th .icon.icon-shape:last-child,table.bill-design thead th .icon.icon-shape:first-child,
+table.bill-design thead th .icon.icon-shape:nth-child(2){
+  right: initial !important;
+
+}
+table.bill-design thead th .icon.icon-shape:last-child{
+  left:1%;
+}
+table.bill-design thead th .icon.icon-shape:first-child{
+  left:8%;
+}
+table.bill-design thead th .icon.icon-shape:nth-child(2){
+  left:4.5%;
+}
+.app-sidebar .logo {
+  padding: 0.5rem 0.95rem 0.5rem 0rem;
+}
+
+.vertical-layout .main-panel .main-content {
+  margin-left: 0 !important;
+  margin-right: 250px;
+}
+.vertical-layout.menu-hide .main-panel .main-content{
+  margin-right: 0px;
+
+}
+/*.menu-hide.vertical-layout .main-panel .main-content{
+  margin-right: 0px;
+}*/
+.sidebar-header a.nav-toggle {
+  right: auto;
+  left: 14px;
+}
+
+.app-sidebar .navigation {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.app-sidebar .navigation li>a {
+  padding: 5px 14px 5px 30px;
+  text-align: right;
+}
+
+body[data-menu="vertical-menu"] .app-sidebar .navigation li.active>a:before,
+body .app-sidebar .navigation li>a:before {
+  border-right: none;
+}
+
+.navbar .navbar-container .navbar-nav .user {
+  margin-left: 0.75rem !important;
+  margin-right: 0 !important;
+}
+
+.navbar .langimg {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+.card-header,
+section,
+form,
+.wrapper .content-header,
+.card-body {
+  text-align: right;
+}
+
+.app-sidebar .navigation i {
+  float: right;
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.tab-content {
+  padding: 0.375rem 15px 0;
+  width: 100%;
+}
+
+.sidebar-header a.nav-close {
+  left: 14px;
+  right: auto;
+}
+
+table.table,
+.modal-body {
+  direction: rtl;
+  text-align: right;
+}
+
+.table thead th {
+  /* text-align: right;*/
+  white-space: nowrap;
+}
+
+.radio label::after {
+  right: 4px;
+  left: auto;
+}
+
+.checkbox label:before,
+.checkbox label:after {
+  right: 0;
+  left: auto;
+}
+
+.radio label::before {
+  margin-right: 0;
+  margin-left: 0.5rem;
+}
+
+.checkbox label {
+  margin-left: 0;
+  margin-right: 1.75rem;
+}
+
+.p-autocomplete,
+.p-inputtext {
+  width: 100%;
+}
+
+.pi-chevron-right:before {
+  content: "\e900";
+}
+
+.p-tree .p-tree-container .p-treenode .p-treenode-content .p-tree-toggler,
+.p-tree .p-tree-container .p-treenode .p-treenode-content .p-treenode-icon {
+  margin-left: 0.5rem;
+  margin-right: 0;
+
+}
+
+.p-tree .p-treenode-children {
+  padding: 0 1rem 0 0;
+}
+
+.ps__rail-y {
+  right: initial !important;
+  left: 0 !important;
+}
+
+.input-group>.input-group-append>.btn,
+.input-group>.input-group-append>.input-group-text,
+.input-group>.input-group-prepend:not(:first-child)>.btn,
+.input-group>.input-group-prepend:not(:first-child)>.input-group-text,
+.input-group>.input-group-prepend:first-child>.btn:not(:first-child),
+.input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child) {
+  border-top-left-radius: 0.35rem;
+  border-bottom-left-radius: 0.35rem;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.input-group>.form-control:not(:last-child),
+.input-group>.custom-select:not(:last-child) {
+  border-top-right-radius: 0.35rem;
+  border-bottom-right-radius: 0.35rem;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.modal-header .close {
+  float: left;
+  margin: -1rem auto -1rem -1rem;
+}
+
+.pagination {
+  padding: 0;
+  direction: ltr;
+}
+
+.p-autocomplete .p-autocomplete-panel {
+  right: 0;
+  left: auto !important;
+  max-height: 125px !important;
+}
+
+.headerform {
+  text-align: right !important;
+}
+
+.app-sidebar .navigation li.has-sub>a:after {
+  right: auto;
+  left: 15px;
+  transform: rotate(180deg);
+}
+
+.app-sidebar .navigation li.open>a:after {
+  transform: rotate(90deg);
+}
+
+@media (min-width: 1200px) {
+
+  .vertical-menu .navbar,
+  .vertical-menu footer.footer {
+    margin-left: 0 !important;
+    margin-right: 250px;
+  }
+
+  body.nav-collapsed:not(.horizontal-layout) .navbar {
+    margin-left: 0 !important;
+    margin-right: 60px;
+  }
+
+  .app-sidebar {
+    right: 0;
+    left: initial;
+  }
+
+  body.nav-collapsed:not(.horizontal-layout) .main-panel .main-content {
+    margin-left: 0;
+    margin-right: 60px;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .app-sidebar {
+    transform: translate3d(100%, 0, 0);
+  }
+}
+
+@media (max-width: 991.98px) {
+  .header-navbar .navbar-container ul.navbar-nav {
+    float: left !important;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .navbar .navbar-nav {
+    margin-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 320px) {
+  .navbar-nav>li {
+    float: right;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar.header-navbar .navbar-nav li .form-group {
+    margin-top: 8px;
+  }
+
+  .vertical-layout .main-panel .main-content {
+    margin-right: 0;
+  }
+}
+
+/* bootstrap class rtl */
+
+.float-left {
+  float: right !important;
+}
+
+.float-right {
+  float: left !important;
+}
+
+.text-left {
+  text-align: right !important;
+}
+
+.text-right {
+  text-align: left !important;
+}
+
+.mr-1,
+.mx-1 {
+  margin-right: 0 !important;
+  margin-left: 0.375rem !important;
+}
+
+.ml-1,
+.mx-1 {
+  margin-left: 0 !important;
+  margin-right: 0.375rem !important;
+}
+
+.mr-2 {
+  margin-right: 0 !important;
+  margin-left: 0.75rem !important;
+}
+
+.ml-2 {
+  margin-left: 0 !important;
+  margin-right: 0.75rem !important;
+}
+
+.scroll-top {
+  right: auto;
+  left: 5rem;
+}
+
+.ml-auto {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+.dropdown-menu button {
+  text-align: right;
+}
+.toasts , .toasts-header {
+  text-align:right;
+}
+@media only screen and (max-width: 767px) {
+.Number-notifications{
+  color: #fff;
+  background-color: #AA3939;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  padding: 3px 8px;
+  font-size: 9px;
+  position: absolute;
+  top: 9px;
+  right: 219px !important;
+} 
+}
+.show>.dropdown-menu {
+  right: 0;
+  left: auto !important;
+  transform: translate3d(0px, 35px, 0px) !important;
+}
+
+
+.p-autocomplete-item {
+  text-align: right;
+}
+
+/* LOGIN */
+.auth-page {
+  direction: rtl;
+}
+
+.auth-page #login {
+  direction: ltr;
+}
+
+.login-form .card .card-title {
+  text-align: center;
+}
+
+.login-info .card .card-title {
+  text-align: left;
+}
+
+.radio-btn-ds [type="radio"]:checked+label,
+.radio-btn-ds [type="radio"]:not(:checked)+label {
+  padding-left: 0;
+  padding-right: 28px;
+}
+
+.radio-btn-ds [type="radio"]:checked+label:before,
+.radio-btn-ds [type="radio"]:not(:checked)+label:before {
+  left: auto;
+  right: 0;
+}
+
+.radio-btn-ds [type="radio"]:checked+label:after,
+.radio-btn-ds [type="radio"]:not(:checked)+label:after {
+  left: auto;
+  right: 4px;
+}
+
+.radio-btn-ds [type="radio"]:checked,
+.radio-btn-ds [type="radio"]:not(:checked) {
+  position: absolute;
+  left: auto;
+  right: -9999px;
+}
+
+.toggle-coloumns tbody tr td {
+  text-align: right;
+}
+
+/* --------dash board--------- */
+
+
+@media (max-width: 1199.98px) {
+  .app-sidebar {
+    transform: translate3d(0, 0, 0) !important;
+  }
+
+  .menu-hide .app-sidebar {
+    transform: translate3d(100%, 0, 0) !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .navbar-header .navbar-toggle {
+    margin: 8px 6px 0 17px;
+  }
+}
+
+.input-group-text {
+  padding: 7px 10px;
+  position: absolute;
+  left: 0 !important;
+  border-right: 0 !important; 
+  right: auto !important;
+}

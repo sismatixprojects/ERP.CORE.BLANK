@@ -1,0 +1,32 @@
+{
+    "PurchaseOrder":"Purchase Order",
+    "Count":"Count",
+    "PurchaseRequest":"Purchase Request",
+    "TransferOrders":"Transfer Orders",
+    "code":"Code",
+    "store":"Store",
+    "ItemMinStock":"Items Reached Minimum",
+    "Tasks":"Activities",
+    "AssignedTo":"Assigned To",
+    "Priority":"Priority",
+    "TaskTitle":"Task Title",
+    "DueDate":"Due Date",
+    "ActualBalance": "Actual Balance",
+    "PreferdBalance":"Preferd Balance",
+    "POQty":"P.O.Qty",
+    "Requried":"Requried",
+    "LastPrice":"Last Price",
+    "QutationPrice":"Quotation Price",
+    "QtyInallStore":"Qty In All Store",
+    "selectErrorMessage": "Please First Select Row",
+    "ItemsAlreadySelected":"Items Already Selected",
+    "selecteditemvendorshouldbesame":"Selected item vendor should be same",
+    "CreatePO":"Create P.O.",
+    "CreatePR":"Create P.R.",
+    "CreateTransferOrder":"Create Transfer Order",
+    "WOstatus":"WOstatus",
+    "linescheduleddate":"line scheduled date",
+    "LastTenWorkOrder":"Last Ten Work Order"
+
+
+}

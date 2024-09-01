@@ -1,0 +1,16 @@
+{
+    "PaymentTypes": "Payment Methods",
+    "is_salesreturn": "is sales return",
+    "isreceipt": "Customer Payment",
+    "isvendorpayment": "Vendor Payment",
+    "is_cash": "Is Cash",
+    "is_posexpense": "Is POSExpense",
+    "ispurchases": "Purchases",
+    "ischeque": "Cheque",
+    "issales": "Sales",
+    "toastrRelMsgDelete":"This Payment type have relation with other data and cannot delete it ",
+    "TaxesandDeductions":"Taxes and deductions",
+    "ImpactRange":"Impact Range",
+    "Percent":"Percentage",
+    "Effect":"Effect"
+}

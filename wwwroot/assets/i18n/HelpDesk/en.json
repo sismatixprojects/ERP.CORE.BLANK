@@ -1,0 +1,11 @@
+{
+  "HelpDesk": "HelpDesk",
+  "Priority": "Priority",
+  "AssignedTo": "Assigned To",
+  "Email": "Email",
+  "Phone": "Phone",
+  "ExpectedDate": "Expected Date",
+  "OpenDate": "Open Date",
+  "Customer": "Customer",
+  "Contract": "Contract"
+}

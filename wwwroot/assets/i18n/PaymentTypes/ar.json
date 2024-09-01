@@ -1,0 +1,16 @@
+{
+    "PaymentTypes": "طرق الدفع",
+    "is_salesreturn": "",
+    "isreceipt": "قبض عميل",
+    "isvendorpayment": "صرف مورد",
+    "is_cash": "نقدي ",
+    "is_posexpense": "مصروفات نقاط البيع",
+    "ispurchases": "المشتريات",
+    "ischeque": "Cheque",
+    "issales": "المبيعات",
+    "toastrRelMsgDelete": "هذا النوع من الدفع مرتبط ببيانات اخرى ولا يمكن حذفه",
+    "TaxesandDeductions": "ضرائب و استقطاعات",
+    "ImpactRange":"نطاق التطبيق",
+    "Percent":"النسبة",
+    "Effect":"التأثير"
+}

@@ -1,0 +1,19 @@
+{
+    "RealEstateTypes":"انواع العقارات",
+    "rooms":"عدد الغرف" ,
+    "bathroom":"عدد الحمامات" ,
+    "finishing":"التشطيب",
+    "view":"الوجهة" ,
+    "floor":"الدور" ,
+    "floors":"عدد الادوار" ,
+    "land_size":"مساحة الارض" ,
+    "size_in_metres":"المساحة بالمتر" ,
+    "units_number":"عدد الشقق",
+    "price":"السعر",
+    "payment":"الدفع",
+    "year":"سنة البناء /التأسيس",
+    "IsSold": "مباع",  
+    "SelectRealEstate": "أختر من العقارات "
+
+
+}

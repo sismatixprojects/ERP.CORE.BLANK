@@ -1,0 +1,22 @@
+{
+  "BankReconcilation" :"Bank Reconcilation",
+  "Bookbalanceforthepreviousperiod":"Ledger balance of the previous period",
+  "Totaldebitduringtheperiod": "Total debit transactions during the period",
+  "Totalcreditduringtheperiod": "Total credit transactions during the period",
+  "Bookbalancefortheendofperiod":"Ledger balance at the end of the period",
+  "Actualbalanceattheendoftheperiod": "Actual balance at the end of the period",
+  "differencebetweentheactualandbookbalance": "The difference between the actual and Ledger balance",
+  "Totalmovementsduringtheperiod":"Total transactions during the period",
+  "Totaltransactionssettled":"Total reconciled transactions",
+  "Totalunreconciledtransactions":"Total unreconciled transactions",
+  "posted":"posted",
+  "notposted":"Not posted",
+  "Debit":"Debit",
+  "Credit":"Credit",
+  "Unreconciled":"Unreconciled",
+  "Reconciled":"Reconciled",
+  "BeneficiaryBank":"Beneficiary  / ReceivedFrom",
+  "CheckNumber":"Check Number",
+  "Transaction":"Transaction",
+  "errmsg":"you must select record to save"
+}

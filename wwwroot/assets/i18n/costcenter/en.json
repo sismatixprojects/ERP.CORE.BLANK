@@ -1,0 +1,23 @@
+{
+  "Cost Center Documnet Title":"Chart of Cost Center",
+  "Add Center": " Add Center ",
+  "Cost Center level": "Cost Center level",
+  "Cost Center Info": "Cost Center Info",
+  "Chart of Cost Center": "Chart of Cost Center",
+  "Cost Center Code": "Cost Center Code",
+  "Cost Center Start Date": "Cost Center Start Date",
+  "Cost Center End Date":"Cost Center End Date",
+  "Parent Cost Center":"Parent Cost Center",
+  "Transaction Cost Center":"Transaction Cost Center",
+  "Cost Center Type":"Cost Center Type",
+  "CantAdd":"Can't add sub cost center under a transaction cost center !",
+  "CantDelete":"Can't delete parent cost center !",
+  "DateInvalid":"Start date is greater than end date !",
+  "DeleteRelationmsg":"This Cost Center has relation with other data",
+  "toggleparenttransactionerror":"You Can’t convert parent cost center to transaction cost center! as it has other transaction cost centers",
+  "expandAll":"Expand All",
+  "collapseAll":"Collapse All"
+ 
+
+
+}
