@@ -7,7 +7,7 @@ pipeline {
         AWS_REGION = 'eu-central-1'
         CRED = 'AWS-Account-Access'
         
-        ECS_CLUSTER = 'rbs-cluster-uat'
+        ECS_CLUSTER = 'MatixECS'
 
         ECR = '304253485965.dkr.ecr.eu-central-1.amazonaws.com/matixerp'
         HOME = "${env.WORKSPACE}"
