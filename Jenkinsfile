@@ -89,7 +89,7 @@ pipeline {
 def deploytoECS(){
   withAWS(region: env.AWS_REGION, credentials: env.AWS_CREDENTIALS_ID){
     sh """
-        aws ecs update-service --force-new-deployment --service matix-erp-svc --cluster Matix
+        aws ecs update-service --force-new-deployment --service matix-erp-svc --cluster MatixECS
        
      """
   }
