@@ -22,7 +22,7 @@ pipeline {
             }
             
             steps {
-                git branch: 'main', url: 'https://github.com/marifse/matixerp.git', credentialsId: 'Github Marifse'
+                git branch: 'main', url: 'https://github.com/sismatixprojects/ERP.CORE.BLANK.git', credentialsId: 'Github Marifse'
                 script {
                     sh "docker build -t ${env.ECR}:latest -f ./Dockerfile ."
                 }
