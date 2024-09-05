@@ -10,7 +10,6 @@
     "Approvers":"Approvers",
     "Fields":"Fields",
     "AutomatedSequence":"Automated Sequence",
-    "Document":"Document",
     "Contact":"Contact",
     "Date":"Date",
     "Period":"Period",
@@ -44,8 +43,8 @@
     "CancelRequest":"CancelRequest",
     "RequestStatusesLog":"Request Statuses Log",
     "Notes": "Notes",
-    "CreatedDateTime":"Created Date"
-
+    "CreatedDateTime":"Created Date",
+    "hrstatic" : "HR Model"
 
 
 

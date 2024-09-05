@@ -1,0 +1,14 @@
+{
+    "qualitypoints" : "Quality Points",
+    "title" : "Title",
+    "controltype" : "Control Type",
+    "type" : "Type",
+    "operations" : "Operations",
+    "percentage" : "Percentage",
+    "products" : "Product",
+    "categories" : "Category",
+    "instructions" : "Instructions",
+    "massage" : "Massage",
+    "iffail" : "If Fail",
+    "quality" : "Quality"
+}

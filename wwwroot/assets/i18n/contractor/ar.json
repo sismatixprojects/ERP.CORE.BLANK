@@ -331,11 +331,19 @@
    "InternalCode":"الكود الداخلى",
    "CallDefineClauses": "استدعاء بنود معرفه",
    "UpdatePrice":"تحديث السعر",
-   "Installments":"الأقساط",
-   "InstallmentsError": "مجموع قيم الاقساط يجب ان تكون مساوية صافى قيمة العقد",
+   "Installments":"الدفعات",
+   "InstallmentsError": "مجموع قيم الدفعات يجب ان تكون مساوية صافى قيمة العقد",
    "AddSpecialClausesToSubContractor_ContractTotal" :"أضافة البنود الخاصة لاجمالى قيمة عقد المقاول",
    "CallSpecialItems": "استدعاء كامل البنود الخاصة",
-   "CallPreviousPaymentRequestsSpecialItems":"استدعاء بنود الخاصة للمستخلصات السابقة"
+   "CallPreviousPaymentRequestsSpecialItems":"استدعاء بنود الخاصة للمستخلصات السابقة",
+   "ItemsNotPreviouslyCalled":"بنود لم تستدعى سابقا",
+   "CallClauses":"استدعاء البنود",
+   "Contractsinwhichtheclausewasused":"العقود  التى تم  استخدام  البند  فيها ",
+   "Thepricingatwhichtheitemwasused":" التسعير الذى تم  استخدام البند  فيه",
+   "ItemsNotCompletePaymentRate":"بنود غير مكتملة نسبة الصرف",
+   "ItemsNotCompleteExcutionRate":"بنود غير مكتملة نسبة التنفيذ"
+
+
 
 
 

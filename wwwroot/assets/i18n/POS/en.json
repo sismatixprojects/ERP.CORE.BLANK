@@ -19,5 +19,6 @@
   "invalidDateMsg": "End date must be greater than or equal to start date",
   "SelectItemCategory": "Select Item Category",
   "RepaeteNameMsg":"This Name has been used before and can't be repeated",
-  "KD":"KD"
+  "KD":"KD",
+  "PromotionType":"Promotion Type"
 }

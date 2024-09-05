@@ -83,7 +83,7 @@ table.bill-design thead th .icon.icon-shape:nth-child(2){
 }
 
 .app-sidebar .navigation li>a {
-  padding: 5px 14px 5px 30px;
+  padding: 3px 14px 3px 30px;
   text-align: right;
 }
 
@@ -239,6 +239,7 @@ table.table,
   .vertical-menu footer.footer {
     margin-left: 0 !important;
     margin-right: 250px;
+    height: 100%;
   }
 
   body.nav-collapsed:not(.horizontal-layout) .navbar {

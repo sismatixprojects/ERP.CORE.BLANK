@@ -216,7 +216,9 @@
   "FromTransfers":"From Transfers",
    "RawMaterials":"Raw Materials",
    "ReceiptLinkedBatchOrder":"previous Receipt",
-   "CreateReceipt":"Create Receipt"
+   "CreateReceipt":"Create Receipt",
+   "CreateCashSales": "Create Cash Sales",
+   "CreateBatchOrder": "Create Work Order"
 
 
 }

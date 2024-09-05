@@ -286,6 +286,7 @@
   "Delete All Installment": "حذف جميع الأقساط",
   "Add New Installment": "إضافة قسط جديد",
   "DueErrMsg": "تاريخ الأستحقاق يجب ان يكون بعد تاريخ البيع",
+  "StartErrMsg":"تاريخ الفاتوره تعدى فترة الائتمان",
   "DueDate": "تاريخ الإستحقاق",
   "MainCustomerdeliverdate": "تاريخ الاستلام الفعلي",
   "ContractDate": "تاريخ التعاقد",
@@ -365,7 +366,7 @@
   "SelectCustomerErrorMsg": "الرجاء اختيار عنصر من القائمة",
   "NOComponents": "هذا الصنف لا يحتوى على اى مكونات",
   "BillNo": " رقم الفاتوره",
-  "CreateInvoices": "اصدار فاتورة",
+  "CreateInvoices": "اصدار فاتورة مجمعة",
   "StopSelesErrorMsg": "الصنف متوقف علية حركة البيع",
   "StopInventoryErrorMsg": "الصنف متوقف علية الحركة المخزنية ",
   "PostalCode": "الرمز البريدي",
@@ -431,7 +432,7 @@
   "Percent": "النسبة",
   "Statement": "البيان",
   "Effect": "التأثير",
-  "CreateInvoice": "اصدار فاتورة",
+  "CreateInvoice": "اصدار فاتورة مجمعة",
   "Automaticpayment": "السداد التلقائي",
   "CombinedInvoice": "عرض الفاتورة المجمعة",
   "MainCustomer": "عميل رئيسي",
@@ -449,6 +450,8 @@
   "ActivityType": "نوع النشاط",
   "AddActivity": "اضافة نشاط",
   "CheckDateError":"لا يمكن اضافة صنف خدمي في فترة تم صرف مكوناته",
-  "UpdateReceiptItemService":"تم صرف مكونات الصنف الخدمي في الفاتورة"
+  "UpdateReceiptItemService":"تم صرف مكونات الصنف الخدمي في الفاتورة",
+  "LinkedExpensses":"المصروفات المرتبطة",
+  "allowcontractquantitytobeexceeded" : "السماح بتخطى كمية العقد فى الفواتير"
 
 }

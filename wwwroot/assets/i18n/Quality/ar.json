@@ -1,0 +1,15 @@
+{
+    "qualitypoints" : "نقاط الجودة",
+    "title" : "العنوان",
+    "controltype" : "نوع التحكم",
+    "type" : "النوع",
+    "operations" : "العمليات",
+    "percentage" : "النسبة المئوية",
+    "products" : "منتج",
+    "categories" : "فئات",
+    "instructions" :"تعليمات",
+    "massage" : "رسالة",
+    "iffail" : "فى حالة الفشل",
+    "quality" : "الجودة"
+
+}

@@ -1,0 +1,51 @@
+{
+    "projectsmanagementgroups":"مجموعات إدارة المشروعات",
+    "projectsmanagementteams":"فرق إدارة المشروعات" ,
+
+    "ProjectCode":"كود المشروع",
+    "ProjectName":"اسم المشروع",
+    "Owner":"المالك ",
+    "StartDate":"يبدأ في",
+    "EndDate":"ينتهي في",
+    "Group":"المجموعة",
+    "CreatedBy":"تسجيل بواسطة",
+    "CreatedTime":"تاريخ التسجيل",
+    "UpdatedBy":"اخر تعديل بواسطة",
+    "UpdatedTime":"اخر تاريخ تعديل",
+    "projects":"المشروعات",
+    "ProjectPhases":"المراحل",
+    "ProjectTimeSheet":"الجدول الزمني",
+    "ProjectTasks":"المهام",
+    "ProjectRevenu":"الإيرادات",
+    "ProjectExpenses":"المصروفات",
+    "EndDateValidMsg": "تاريخ الانتهاء يجب ان يكون اكبر من او مساوى تاريخ البداية",
+    "ProjectOwner":"المالك",
+    "ProjectGroup":"المجموعة",
+    "AddPhases":"أضافة مرحلة",
+    "DueDate":"تاريخ الاستحقاق",
+    "CompletionDate":"تاريخ الإنجاز",
+    "PhaseCode":"كود",
+    "PhaseName":"الاسم",
+    "PhaseOwner":"المالك",
+    "ExpandAll":"انسدال الكل",
+    "CollapseAll":"دمج الكل",
+    "Duration":"المدة",
+    "WorkHours":"ساعات العمل ",
+    "Periority":"الأولوية",
+    "BillingType":"نوع الفاتورة",
+    "ActionsItem":"الإجراءات",
+    "TaskCode":"الكود",
+    "TaskName":"الاسم",
+    "AddTaskList":"إضافة قائمة المهام",
+    "AddTask":"إضافة مهمه",
+    "ProjectTaskList":"قائمة المهام",
+    "ProjectTask" :"مهمه",
+    "AssociatedTeam":"الفريق"
+
+
+
+
+
+ 
+
+}

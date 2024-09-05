@@ -1,0 +1,51 @@
+{
+ 
+    "projectsmanagementgroups":"Projects Management Groups",
+    "projectsmanagementteams":"Projects Management Teams" ,
+    "ProjectCode":"Project Code",
+    "ProjectName":"Project Name",
+    "Owner":"Owner",
+    "StartDate":"Start Date",
+    "EndDate":"End Date",
+    "Group":"Group",
+    "CreatedBy":"Created By",
+    "CreatedTime":"Created Time",
+    "UpdatedBy":"Last Modified By",
+    "UpdatedTime":"Last Modified Time",
+    "projects":"projects",
+    "ProjectPhases":"Phases",
+    "ProjectTimeSheet":"Time Sheet",
+    "ProjectTasks":"Tasks",
+    "ProjectRevenu":"Revenu",
+    "ProjectExpenses":"Expenses",
+    "EndDateValidMsg":"End In Date  must be eqaul or greater than Start In Date",
+    "ProjectOwner":"Owner",
+    "ProjectGroup":"Group",
+    "AddPhases":"Add Phases",
+    "DueDate":"Due Date",
+    "CompletionDate":"Completion Date",
+    "PhaseCode":"Code",
+    "PhaseName":"Name",
+    "PhaseOwner":"Owner",
+    "ExpandAll":"Expand All",
+    "CollapseAll":"Collapse All",
+    "Duration":"Duration",
+    "WorkHours":"Work Hours",
+    "Periority":"Periority",
+    "BillingType":"Billing Type",
+    "ActionsItem":"Actions",
+     "TaskCode":"Code",
+    "TaskName":"Name",
+    "AddTaskList":"Add Task List",
+    "AddTask":"Add Task",
+    "ProjectTaskList": "Task List",
+    "ProjectTask" :"Task",
+    "AssociatedTeam":"Team"
+
+
+
+
+
+
+
+}

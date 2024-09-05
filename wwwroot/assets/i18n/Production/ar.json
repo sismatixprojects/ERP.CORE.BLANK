@@ -215,8 +215,9 @@
   "FromTransfers":"من التحويلات",
   "RawMaterials":"المواد الخام",
   "ReceiptLinkedBatchOrder":"فواتير سابقة",
-  "CreateReceipt":"اصدار فاتورة"
-
+  "CreateReceipt":"اصدار فاتورة",
+  "CreateCreditSales": "اصدار فاتورة مبيعات اجلة",
+  "CreateCashSales": "اصدار فاتورة مبيعات نقدية"
 
 
 

@@ -41,7 +41,7 @@
   "swalCheckChequeTitle":"هذا الرقم تم استخدامه سابقا",
   "swalCheckChequeText":"رقم الشيك مستخدم من قبل - يرجى اسخدام رقم اخر",
   "swalCheckChequeBtnConfirm":"موافق",
-  "swalCheckChequeBtnCancel":"اغلاق",
+  "swalCheckChequeBtnCancel":"خروج",
    "edit":  "تعديل",
    "debitAccountSameCreditAccount":  "لا يمكن ان يكون الحساب المدين هو نفسه الحساب الدائن",
    "Debit":"المدين",

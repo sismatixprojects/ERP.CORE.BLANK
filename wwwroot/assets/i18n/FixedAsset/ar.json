@@ -173,18 +173,17 @@
   "Depreciationbyassettype": " الاهلاك حسب النوع الاصول",
   "PlateNumber": "رقم اللوحه",
   "OilChangeDate": "موعد تغيير الزيت",
-  "Guaranteeofassets":"كفالة الاصول",
-  "GuaranteeofassetsExpired":"الاصول المنتهية",
-  "GuaranteeofassetsCloselyExpired":"الاصول ساريه / قرابه الانتهاء",
-  "status":"الحالة",
-  "number":"العدد",
-  "Finished":"منتهية",
-  "Running":"سارية/قرب الانتهاء",
-  "name":"الاسم",
-  "Assetcode":"كود الاصل",
-  "Licenseexpirationdate":"تاريخ  الانتهاء الخاص بالاصل",
-  "AssetsReachedOilChangeDate": "اصول وصلت لموعد تغير الزيت"
-
-
-
+  "Guaranteeofassets": "كفالة الاصول",
+  "GuaranteeofassetsExpired": "الاصول المنتهية",
+  "GuaranteeofassetsCloselyExpired": "الاصول ساريه / قرابه الانتهاء",
+  "status": "الحالة",
+  "number": "العدد",
+  "Finished": "منتهية",
+  "Running": "سارية/قرب الانتهاء",
+  "name": "الاسم",
+  "Assetcode": "كود الاصل",
+  "Licenseexpirationdate": "تاريخ  الانتهاء الخاص بالاصل",
+  "AssetsReachedOilChangeDate": "اصول وصلت لموعد تغير الزيت",
+  "AssetTransfer": "نقل الاصول",
+  "MoveDateGreaterThanOldDate": "تاريخ الحركة يجب ان يكون اكبر من التاريخ القديم"
 }

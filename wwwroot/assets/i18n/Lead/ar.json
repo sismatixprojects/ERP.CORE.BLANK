@@ -181,5 +181,10 @@
   "CommentOnPhone": "ملاحظات على الهاتف",
   "AssociatedCompany": "مرتبط بشركة",
   "Started": "بدات",
-  "ActivityLog": "سجل النشاط"
+  "ActivityLog": "سجل النشاط",
+  "SelectTag": "برجاء اختيار علامة",
+  "LoadingFromRegion": "التحميل من منطقة",
+  "ToRegion": "الى منطقة",
+  "RentValue": "قيمة الايجار",
+  "Payment": "سداد"
 }

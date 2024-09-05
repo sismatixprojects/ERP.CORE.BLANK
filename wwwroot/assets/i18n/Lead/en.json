@@ -181,5 +181,10 @@
   "CommentOnPhone": "Comment On Phone",
   "AssociatedCompany": "Associated Company",
   "Started": "Started",
-  "ActivityLog": "Activity Log"
+  "ActivityLog": "Activity Log",
+  "SelectTag": "Select a Tag",
+  "LoadingFromRegion": "Loading From Region",
+  "ToRegion": "To Region",
+  "RentValue": "Rent Value",
+  "Payment": "Payment"
 }

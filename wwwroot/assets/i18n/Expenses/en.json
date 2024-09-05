@@ -31,5 +31,8 @@
     "employeeaccount":"From Employee Account",
     "compaccount":"From Company Account",
     "Paidby" : "Paid By",
-    "company" : "Company"
+    "company" : "Company",
+    "RequestStatusesLog":"Request Statuses Log",
+    "Entry#": "Entry#",
+    "Entry_Type": "Entry Type"
 }

@@ -12,5 +12,6 @@
     "TaxesandDeductions":"Taxes and deductions",
     "ImpactRange":"Impact Range",
     "Percent":"Percentage",
-    "Effect":"Effect"
+    "Effect":"Effect",
+    "hidefrombatchorderstatus":"Hide From Batch Order Status"
 }

@@ -145,9 +145,16 @@
   "UpdateName": "Update Name",
   "UpdateCategories": "Update Categories",
   "SelectService": "Select a Service",
-  "activaterecalculateTotal":"Activate Recalculate Total",
-  "deactivaterecalculateTotal":"Deactivate Recalculate Total",
+  "activaterecalculateTotal": "Activate Recalculate Total",
+  "deactivaterecalculateTotal": "Deactivate Recalculate Total",
   "matix.oneIntegration": "matix.one Integration",
-  "ImportSales":" Import Sales",
-  "Updatewebsiteproducts" :" Update website products"
+  "ImportSales": " Import Sales",
+  "Updatewebsiteproducts": " Update website products",
+  "SubCostCenter": "Sub Cost Center",
+  "MainCostCenter": "Main Cost Center",
+  "AssetOpeningBalanceImport": "Asset Opening Balance Import",
+  "ErrorWhileDownloading": "Error While Downloading",
+  "CannotImportAssetOpeningBalance": "cannot Import Asset Opening Balance because of depreciation exists",
+  "NoOpeningBalanceImported": "No Opening Balance Imported",
+  "NoOpeningBalanceFailed": "No Opening Balance Failed"
 }

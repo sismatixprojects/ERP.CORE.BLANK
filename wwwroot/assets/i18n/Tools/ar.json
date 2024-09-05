@@ -145,15 +145,23 @@
   "UpdateName": "تحديث الاسم",
   "UpdateCategories": "تحديث الفئات",
   "SelectService": "اختر خدمة",
-  "activaterecalculateTotal":"تفعيل اعاده احتساب الاجماليات",
-  "deactivaterecalculateTotal":"عدم تفعيل اعاده احتساب الاجماليات",
+  "activaterecalculateTotal": "تفعيل اعاده احتساب الاجماليات",
+  "deactivaterecalculateTotal": "عدم تفعيل اعاده احتساب الاجماليات",
   "matix.oneIntegration": "موقع  ماتكس وان",
-  "ImportSales":"استيراد المبيعات",
-  "Updatewebsiteproducts" :"تحديث الموقع"
-
-
-
-
-
-
+  "ImportSales": "استيراد المبيعات",
+  "Updatewebsiteproducts": "تحديث الموقع",
+  "MainCostCenter": "مركز التكلفة الرئيسى",
+  "SubCostCenter": "مركز التكلفة الفرعى",
+  "AssetOpeningBalanceImport": "استيراد الرصيد الافتتاحى للاصول",
+  "ErrorWhileDownloading": "حدث خطا اثناء تحميل الملف",
+  "CannotImportAssetOpeningBalance": "لايمكن استيراد الارصدة بسبب وجود اهلاك",
+  "NoOpeningBalanceImported": "عدد الارصدة التى تم استيرادها",
+  "NoOpeningBalanceFailed": "عدد الارصدة التى فشل استيرادها"
 }
+
+
+
+
+
+
+

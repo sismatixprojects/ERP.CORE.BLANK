@@ -31,5 +31,10 @@
     "employeeaccount":"من حساب موظف",
     "compaccount":"من حساب شركة ",
     "Paidby" : " الدفع عن طريق",
-    "company" : "شركة"
+    "company" : "شركة",
+    "RequestStatusesLog":"سجل حالات الطلب",
+    "Entry#": "رقم الحركة",
+    "Entry_Type": "نوع الحركة "
+
+
 }

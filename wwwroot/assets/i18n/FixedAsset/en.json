@@ -173,16 +173,17 @@
   "Depreciationbyassettype": "Depreciation by asset type",
   "PlateNumber": "Plate Number",
   "OilChangeDate": "Oil Change Date",
-  "Guaranteeofassets":"Guarantee of assets",
-  "GuaranteeofassetsExpired":"Guarantee of assets (Expired)",
-  "GuaranteeofassetsCloselyExpired":"Guarantee of assets (Closely Expired)",
-  "status":"status",
-  "number":"number",
-  "Finished":"Finished",
+  "Guaranteeofassets": "Guarantee of assets",
+  "GuaranteeofassetsExpired": "Guarantee of assets (Expired)",
+  "GuaranteeofassetsCloselyExpired": "Guarantee of assets (Closely Expired)",
+  "status": "status",
+  "number": "number",
+  "Finished": "Finished",
   "Running": "Running",
-  "name":"name",
-  "Assetcode":"Asset code",
-  "Licenseexpirationdate":"License expiration date",
-  "AssetsReachedOilChangeDate": "Assets Reached Oil Change Date"
-
+  "name": "name",
+  "Assetcode": "Asset code",
+  "Licenseexpirationdate": "License expiration date",
+  "AssetsReachedOilChangeDate": "Assets Reached Oil Change Date",
+  "AssetTransfer": "Asset Transfer",
+  "MoveDateGreaterThanOldDate": "Move date must be greater than the old date"
 }

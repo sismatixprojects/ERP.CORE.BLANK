@@ -59,7 +59,7 @@
   "Enable multible currency": "السماح بأكثر من عملة",
   "ContractingSystem": "نظام مقاولات",
   "EnableClausesOfWorksDefined": "تفعيل بنود الاعمال المعرفة",
-  "EnableConstructionDepartment":"تفعيل اقسام المقاولات",
+  "EnableConstructionDepartment": "تفعيل اقسام المقاولات",
   "RealEstateSystem": "نظام عقارات",
   "Cancle": "ألغاء",
   "Settings": "اعدادات",
@@ -280,7 +280,12 @@
   "ShowExpiredDatesForPatches": "اظهار التواريخ منتهية الصلاحية للباتشات",
   "MemberShipAccount": "حساب الاشتراكات",
   "Price": "السعر",
-  "matix.oneIntegration":"الربط  مع  ماتكس وان",
-  "promotion":"العروض"
-
+  "matix.oneIntegration": "الربط  مع  ماتكس وان",
+  "promotion": "العروض",
+  "AllBranches": "كل الفروع",
+  "allowcontractquantitytobeexceeded" : "السماح بتخطى كمية العقد فى الفواتير",
+  "appearanceshippingcontracts" : "إضافات خاصة بعقود الشحن",
+  "rspercentage" : "النسبة فى العقارات",
+  "ApprovalSettings": "إعداد الموافقات",
+  "JobOrderForShipping": "امر تشغيل للشحن"
 }

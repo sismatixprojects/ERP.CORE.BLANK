@@ -10,7 +10,6 @@
   "Approvers":"المُعتمِدين",
   "Fields":"الحقول",
   "AutomatedSequence":"بداية التسلسل",
-  "Document":"المستند",
   "Contact":"جهة الاتصال",
   "Date":"التاريخ",
   "Period":"الفترة",
@@ -45,7 +44,8 @@
   "CancelRequest":"الغاء الطلب",
   "RequestStatusesLog":"سجل حالات الطلب",
   "Notes": "ملاحظات",
-  "CreatedDateTime":"تاريخ التسجيل"
+  "CreatedDateTime":"تاريخ التسجيل",
+  "hrstatic" : "نموذج شئون الموظفين"
 
 
 
