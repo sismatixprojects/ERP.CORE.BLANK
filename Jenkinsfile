@@ -55,7 +55,7 @@ pipeline {
                 script {
                   withCredentials([usernamePassword(credentialsId: 'aws-access-keys', usernameVariable: 'AWS_ACCESS_KEY_ID', passwordVariable: 'AWS_SECRET_ACCESS_KEY')]) {
                         // Login to ECR
-                        sh "aws ecr get-login-password --region ${env.AWS_REGION} | docker login --username AWS --password-stdin ${env.ECR}"
+                        sh "aws ecr get-login-password --region ${env.AWS_REGION} | docker login --username AWS --password-stdin ${env.ECR_PROD}"
 
                         // Tag Docker image
                         //sh "docker tag ${env.ECR_PROD}:latest ${URL_REGISTRY}/$ECR:latest"
@@ -78,7 +78,7 @@ pipeline {
                 script {
                   withCredentials([usernamePassword(credentialsId: 'aws-access-keys', usernameVariable: 'AWS_ACCESS_KEY_ID', passwordVariable: 'AWS_SECRET_ACCESS_KEY')]) {
                         // Login to ECR
-                        sh "aws ecr get-login-password --region ${env.AWS_REGION} | docker login --username AWS --password-stdin ${env.ECR}"
+                        sh "aws ecr get-login-password --region ${env.AWS_REGION} | docker login --username AWS --password-stdin ${env.ECR_TEST}"
 
                         // Tag Docker image
                         //sh "docker tag ${env.ECR_TEST}:latest ${URL_REGISTRY}/$ECR:latest"
