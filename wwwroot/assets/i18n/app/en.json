@@ -507,5 +507,8 @@
   "AssetOpeningBalanceImport": "Asset Opening Balance Import",
   "projectsmanagementprojects": "Projects",
   "LoansAndDeductions": "Loans and Deductions",
-  "AssetTransfer": "Asset Transfer"
+  "attitudeissues" : "Attitude Issues",
+  "AssetTransfer": "Asset Transfer",
+  "LoanRequest":"Loan Request",
+  "qtyindocuments":"QTY in documents"
 }

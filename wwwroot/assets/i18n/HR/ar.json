@@ -287,6 +287,14 @@
     "RegistrationDate": "تاريخ التسجيل",
     "ApprovalSubject": "موضوع الموافقة",
     "RelatedVacationNo": "رقم الاجازة المرتبطة",
+    "VacationDayNumber": "عدد أيام الاجازة",
+    "SubstituteEmployee": "الموظف البديل",
+    "ReturnWorkDate": "تاريخ العودة للعمل",
+    "AddressDuringVacation": "العنوان أثناء الاجازة",
+    "PhoneNumber": "رقم الهاتف",
+    "CreateVacation": "إنشاء اجازة",
+    "classificationpermission": "ليس لديك صلاحية لهذا التصنيف",
+    "ReturnDateGreaterEndDate": "تاريخ العودة للعمل يجب ان يكون أكبر من تاريخ انتهاء الاجازة",
     "employeecomment": "تعليق الموظف",
     "EmployeeNotes": "ملاحظات الموظف",
     "kinshiprelations" : "صلات القرابة",
@@ -842,5 +850,7 @@
     "chequespayment" : "دفع شيكات",
     "account" : "الحساب",
     "accountrepeatmsg" : "لا يمكن تخصيص نفس رقم الحساب لأكثر من بنك",
-    "PermissionPeriod":"فترة الاستئذان"
+    "PermissionPeriod":"فترة الاستئذان",
+    "LoanRequest":"طلب سلفة",
+    "RelatedLoanNo":"طلب السلفة المزتبطة"
 }

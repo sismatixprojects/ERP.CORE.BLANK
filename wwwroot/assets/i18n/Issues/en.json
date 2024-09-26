@@ -54,6 +54,17 @@
     "Files" : "Files",
     "Expirydate" : "Expiry Date",
     "Statement" : "Statement",
-    "Browse" : "Browse"
-
+    "Browse" : "Browse",
+    "savedChanges": "saved Changes",
+    "dataerror" : "Please Enter The Required Data",
+    "adversaryerror":"Please Add The Adversary First",
+    "clienterror":"Please Add The Client First",
+    "createdby" : "Created By",
+    "modifiedby" : "Modified By",
+    "MissData": "You have unsaved changes on this page. Do you want to leave this page and discard your changes or stay on this page?",
+    "attitudeissue" : "Attitude Issue",
+    "typecase" : "Types Cases",
+    "department" : "Appeals Chamber",
+    "FromDate" : "From Date",
+    "ToDate" : "To Date"
 }

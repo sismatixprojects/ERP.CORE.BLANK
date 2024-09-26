@@ -186,5 +186,8 @@
   "LoadingFromRegion": "Loading From Region",
   "ToRegion": "To Region",
   "RentValue": "Rent Value",
-  "Payment": "Payment"
+  "Payment": "Payment",
+  "VoucherPayment": "Voucher Payment",
+  "MoneyTransfer": "Money Transfer",
+  "VendorPayment": "Vendor Payment"
 }

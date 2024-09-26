@@ -107,7 +107,7 @@
   "dontallowcustphonerepeat": "Dont repeat customer phone",
   "repeatname": "Repetition of name is not allowed",
   "printqrcodeininvoice": "Print QR Code In Invoice",
-  "jobordervoucher": "Automatic generation of Job order invoice",
+  "jobordervoucher": "Automatic generation of Assets Job order voucher and invoice",
   "ABCReportSetting": "ABC Report Setting:",
   "PercentageA": "Percentage A",
   "percentageb": "Percentage B",
@@ -290,5 +290,17 @@
   "appearanceshippingcontracts": "Additions To Shipping Contracts",
   "rspercentage": "RS Percentage",
   "ApprovalSettings": "Approval Settings",
-  "JobOrderForShipping": "Job Order for Shipping"
+  "JobOrderForShipping": "Job Order for Shipping",
+  "RealEstateSetting" : "RealEstate Setting",
+  "revenueDueAccount":"Revenue Due Account",
+  "revenueProvidedAccount":"Revenue Provided Account",
+  "revenueAccount":"Revenue Account Account",
+  "emptyUnitsRevenueAccount":"Empty Units Revenue Account",
+  "taxAddedValueAccount":"Tax Added Value Account",
+  "discountAndExemptionAccount":"Discount And Exemption Account",
+  "insuranceAccount":"Insurance Account",
+  "masterAccount":"Master Account",
+  "postlease" : "Posting The Lease Contract Document",
+  "postLevel" : "Level Posting",
+  "servicesAccount":"Services Account"
 }

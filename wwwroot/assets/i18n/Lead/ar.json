@@ -186,5 +186,8 @@
   "LoadingFromRegion": "التحميل من منطقة",
   "ToRegion": "الى منطقة",
   "RentValue": "قيمة الايجار",
-  "Payment": "سداد"
+  "Payment": "سداد",
+  "VoucherPayment": "سند صرف",
+  "MoneyTransfer": "تحويل مالى",
+  "VendorPayment": "دفعة لمورد"
 }

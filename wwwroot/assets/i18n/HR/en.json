@@ -288,6 +288,14 @@
     "RegistrationDate": "Registration date",
     "ApprovalSubject": "Approval Subject",
     "RelatedVacationNo": "Related Vacation No.",
+    "VacationDayNumber": "Number of vacation days",
+    "SubstituteEmployee": "Substitute Employee",
+    "ReturnWorkDate": "Date of return to work",
+    "AddressDuringVacation": "Address During Vacation",
+    "PhoneNumber": "Phone Number",
+    "CreateVacation": "Create Vacation",
+    "classificationpermission": "You do not have permission for this classification",
+    "ReturnDateGreaterEndDate": "The date of return to work must be greater than the vacation end date",
     "employeecomment": "Employee comment",
     "EmployeeNotes": "Employee notes",
     "kinshiprelations" : "Kinship Relations",
@@ -842,6 +850,8 @@
     "chequespayment" : "Cheques Payment",
     "account" : "Account",
     "accountrepeatmsg" : "The Same Account Number Cannot Be Set For More Than One Bank",
-    "PermissionPeriod":"Permission Period"
+    "PermissionPeriod":"Permission Period",
+    "LoanRequest":"Loan Request",
+    "RelatedLoanNo":"Related Loan No"
 
 }

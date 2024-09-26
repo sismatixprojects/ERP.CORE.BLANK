@@ -365,7 +365,7 @@
   "SelectCustomerErrorMsg": "Please select an item from the list",
   "NOComponents": "This product does not contain any components",
   "BillNo": "Bill No",
-  "CreateInvoices": "Create Combined Invoice",
+  "CreateInvoices": "Create Invoice",
   "StopSelesErrorMsg": "The item has been suspended for sale",
   "StopInventoryErrorMsg": "The item has been Stopped Inventory Transactions",
   "PostalCode": "PostalCode",
@@ -452,5 +452,9 @@
   "CheckDateError":"A service item cannot be added during a period when its components have been disbursed",
   "UpdateReceiptItemService":"The components of the service item in the invoice have been disbursed.",
   "LinkedExpensses":"Linked Expensses",
-  "allowcontractquantitytobeexceeded" : "Allow Contract Quantity To Be Exceeded In Invoices"
+  "allowcontractquantitytobeexceeded" : "Allow Contract Quantity To Be Exceeded In Invoices",
+  "AvaliableQtyError":"The sold quantity is greater than the allowed quantity in the documents",
+  "QTYInDocument":"Qty In Document",
+  "SaledQty":"Saled Qty",
+  "SaledQtyError":"The quantity must be greater than or equal to the quantity sold"
 }

@@ -63,6 +63,7 @@
     "regionname":"المنطقة",
     "buildingno":"رقم المبنى / القسيمة",
     "realestatetype" : "أنواع العقارات",
+    "rst" : "نوع العقار",
     "Addrealestatetype" : "إضافة نوع عقار",
     "unitenumber" : "رقم الوحدة",
     "fileno" : "رقم الملف",
@@ -240,6 +241,10 @@
     "typeofowner" : "نوعية المالك",
     "owners" : "الملاك",
     "owner" : "المالك",
+    "ContractWithoutReceipts" : "العقود السارية بدون ايصالات",
+    "AllTotalsResidualValue":"اجمالي المتاخر",
+    "AllTotalsPaidValue":"اجمالي المحصل",
+    "AllTotalsReceiptValue":"اجمالي الايرادات",
     "responsibleperson" : "الشخص المسئول",
     "adress" : "العنوان",
     "percent" : "نسبة مئوية",
@@ -327,7 +332,12 @@
     "editrecipts" : "تعديل إيصال",
     "Renewals" : "التجديدات",
     "RSBankPaymentDetails" : "الحسابات",
-    "dateoffirstreceiptvalidation" : " تاريخ اول ايصال يجب ان يكون اكبر من او يساوي تاريخ البدءوالتعاقد"
+    "paymentmsg" : "هذا الإيصال مسدد بالكامل",
+    "dateoffirstreceiptvalidation" : " تاريخ اول ايصال يجب ان يكون اكبر من او يساوي تاريخ البدءوالتعاقد",
+    "paidamountmsg" : "المبلغ المدفوع أكبر من المتبقى",
+    "selectbrancherror": "يجب اختيار الفرع اولا ",
+    "entrynumnotexist": "يجب ادخال رقم السند ",
+    "entrynumbermsg": "رقم السند غير موجود"
 
 
 }

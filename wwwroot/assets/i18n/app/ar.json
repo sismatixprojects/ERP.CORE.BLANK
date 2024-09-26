@@ -504,5 +504,8 @@
   "AssetOpeningBalanceImport": "استيراد الرصيد الافتتاحى للاصول",
   "projectsmanagementprojects": "المشروعات",
   "LoansAndDeductions": "السلف والاستقطاعات",
-  "AssetTransfer": "نقل الاصول"
+  "attitudeissues" : "موقف القضايا",
+  "AssetTransfer": "نقل الاصول",
+   "LoanRequest":"طلب سلفة",
+   "qtyindocuments":"الكمية في المستندات"
 }

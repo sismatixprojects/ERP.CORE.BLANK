@@ -103,7 +103,7 @@
   "dontallowcustphonerepeat": "عدم تكرار رقم هاتف العميل",
   "repeatname": "غير مسموح بتكرار الاسم",
   "printqrcodeininvoice": "طباعه QR Code فى الفواتير",
-  "jobordervoucher": "اصدار فواتير اوامر التشغيل تلقائيا",
+  "jobordervoucher": "اصدار قيود و فواتير اوامر تشغيل الاصول تلقائيا",
   "ABCReportSetting": "إعدادات تقرير ABC:",
   "PercentageA": "النسبة الأولى",
   "percentageb": "النسبة الثانية",
@@ -287,5 +287,17 @@
   "appearanceshippingcontracts" : "إضافات خاصة بعقود الشحن",
   "rspercentage" : "النسبة فى العقارات",
   "ApprovalSettings": "إعداد الموافقات",
-  "JobOrderForShipping": "امر تشغيل للشحن"
+  "JobOrderForShipping": "امر تشغيل للشحن",
+  "RealEstateSetting" : "إعدادات العقارات",
+  "revenueDueAccount":"رقم حساب الايرادات المستحقة",
+  "revenueProvidedAccount":"رقم حساب الايرادات المقدمة",
+  "revenueAccount":"رقم حساب الايرادات",
+  "emptyUnitsRevenueAccount":"رقم حساب إيرادات الوحدات الخالية",
+  "taxAddedValueAccount":"رقم حساب القيمة المضافة",
+  "discountAndExemptionAccount":"رقم حساب الخصم والاعفاء",
+  "insuranceAccount":"رقم حساب التامين",
+  "masterAccount":"رقم حساب الأستاذ العام للعقار",
+  "postlease" : "ترحيل سند عقد إيجار",
+  "postLevel" : "ترحيل على مستوى",
+  "servicesAccount":"رقم حساب ايرادات الخدمات"
 }

@@ -136,6 +136,8 @@
   "SelectBranch": "Select a Branch",
   "PleaseSelectBranch": "Please select a Branch",
   "DealingWithHisClientsOnly": "Dealing WithHis Clients Only",
+  "itemsprinceinshippingcontractreceipts":"Update items prince in shipping contract receipts",
+  "itemsqtyinshippingcontractreceipts":"Update items qty in shipping contract receipts",
   "SelectAll": "Select All",
   "AddNewItems": "Add New Items",
   "Update": "Update",

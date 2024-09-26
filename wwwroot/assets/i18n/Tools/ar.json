@@ -136,6 +136,8 @@
   "SelectBranch": "اختر فرع",
   "PleaseSelectBranch": "برجاء اختيار فرع",
   "DealingWithHisClientsOnly": "التعامل مع عملاءه فقط",
+  "itemsprinceinshippingcontractreceipts":"تعديل سعر الاصناف في فواتير عقود الشحنات",
+  "itemsqtyinshippingcontractreceipts":"تعديل كمية الاصناف في فواتير عقود الشحنات",
   "SelectAll": "اختيار الكل",
   "AddNewItems": "اضافة أصناف جديدة",
   "Update": "تحديث",

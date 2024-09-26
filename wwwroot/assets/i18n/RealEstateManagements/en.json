@@ -46,6 +46,7 @@
     "AddServices" : "Add Services" ,
     "Price" : "Price",
     "realestatetype" : "Reale Estate Types",
+    "rst" : "Reale Estate Type",
     "Addrealestatetype" : "Add Real Estate Type",
     "placeofissue" : "Place Of Issue",
     "unitenumber" : "Unite Number",
@@ -239,6 +240,10 @@
     "typeofowner" : "Type Of Owner",
     "owners" : "Owners",
     "owner" : "Owner",
+    "ContractWithoutReceipts" : "Contracts Without Receipts",
+    "AllTotalsResidualValue":"Residual Value",
+    "AllTotalsPaidValue":"Paid Value",
+    "AllTotalsReceiptValue":"Receipt Value",
     "responsibleperson" : "Responsible Person",
     "adress" : "Adress",
     "percent" : "Percent",
@@ -327,6 +332,11 @@
     "editrecipts" : "Edit Recipts",
     "Renewals" : "Renewals",
     "RSBankPaymentDetails" : "Accounts",
-    "startDateValidation":"Start Date Must Be Greater Than Date Of Contract"
+    "paymentmsg" : "This Receipt Is Fully Paid",
+    "startDateValidation":"Start Date Must Be Greater Than Date Of Contract",
+    "paidamountmsg" : "The Amount Paid Is Greater Than The Remaining Amount",
+    "selectbrancherror": "Must Select Branch Frist",
+    "entrynumnotexist": "Entry Number Is Not Exist",
+    "entrynumbermsg": "Entry Number is required"
  
 }
