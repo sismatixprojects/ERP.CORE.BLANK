@@ -123,6 +123,7 @@
   "Value": "Value",
   "Account Number": "Account Number",
   "Expenses Types": "Expenses Types",
+  "Expense":"Expense",
   "SelectAccountError": "Must Select Exist Account Frist",
   "NoAccountError": "There is No Accounts",
   "FormInvalid": "Form Invalid - Please Complete Required Fields",
